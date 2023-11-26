@@ -3,7 +3,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=whomping-willow&label=Profile%20views&color=0e75b6&style=flat" alt="whomping-willow" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whomping-willow" alt="whomping-willow" /></a> </p>
+<p align="center">
+  <img src="https://github.com/whomping-willow/whomping-willow/assets/51289468/041c7aed-85b4-437e-a564-fafca950231a.gif" alt="giphy">
+</p>
+
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whomping-willow" alt="whomping-willow" /></a> </p>
 
 - 🔭 I’m currently working on **Research, Problem Solving, Web Development and Android Development**
 
